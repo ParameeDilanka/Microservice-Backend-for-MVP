@@ -1,0 +1,55 @@
+{
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5071"
+    },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/hotel_Bill",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/hotel_Bill",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5260
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/hotel_Bill/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/hotel_Bill/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5260
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/food",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/food",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5275
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/food/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/food/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5275
+        }
+      ]
+    }
+  ]
+}

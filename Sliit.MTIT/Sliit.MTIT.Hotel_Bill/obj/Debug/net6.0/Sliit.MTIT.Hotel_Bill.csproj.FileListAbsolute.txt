@@ -1,0 +1,59 @@
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\appsettings.Development.json
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\appsettings.json
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.exe
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.deps.json
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.runtimeconfig.json
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\ref\Sliit.MTIT.Hotel_Bill.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.pdb
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.csproj.AssemblyReference.cache
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.GeneratedMSBuildEditorConfig.editorconfig
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.AssemblyInfoInputs.cache
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.AssemblyInfo.cs
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.csproj.CoreCompileInputs.cache
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.MvcApplicationPartsAssemblyInfo.cs
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.MvcApplicationPartsAssemblyInfo.cache
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets.build.json
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets.development.json
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Hotel_Bill.styles.css
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.csproj.CopyComplete
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\ref\Sliit.MTIT.Hotel_Bill.dll
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.pdb
+E:\sliit 4yr\1st Semester\MTIT\Assignment 3\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\appsettings.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.exe
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.deps.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.runtimeconfig.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Sliit.MTIT.Hotel_Bill.pdb
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT.Hotel_Bill.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT.Hotel_Bill.props
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT.Hotel_Bill.props
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT.Hotel_Bill.props
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Hotel_Bill.styles.css
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.csproj.CopyComplete
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\refint\Sliit.MTIT.Hotel_Bill.dll
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.pdb
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\Sliit.MTIT.Hotel_Bill.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Hotel\Sliit.MTIT\Sliit.MTIT.Hotel_Bill\obj\Debug\net6.0\ref\Sliit.MTIT.Hotel_Bill.dll
